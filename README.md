@@ -2,10 +2,12 @@
 
 Currently: :shield: Principle Security Engineer in the [University Information Security Office] at [Indiana University]
 
+[What I'm reading now](reading.md)
+
 I'm currently working with and can answer questions about:
 
-* Zeek
-* Suricata
+* [Zeek](https://zeek.org)
+* [Suricata](https://suricata.io)
 * Ubuntu
 * Git/GitHub
 * Visual Studio Code
