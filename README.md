@@ -1,14 +1,11 @@
 ### Peter K Uthuppuru
 
-Currently: :shield: Principle Security Engineer in the [University Information Security Office] at [Indiana University]
+Currently: :shield: Research Security Engineer in the [Information Security Office] at [Yale University]
 
 [What I'm reading now](reading.md)
 
 I'm currently working with and can answer questions about:
 
-* [Zeek](https://zeek.org)
-* [Suricata](https://suricata.io)
-* Ubuntu
 * Git/GitHub
 * Visual Studio Code
 * Windows Subsystem for Linux
@@ -22,9 +19,12 @@ I'm currently learning:
 
 I've previously worked with:
 
+* [Zeek](https://zeek.org)
+* [Suricata](https://suricata.io)
+* Ubuntu
 * IBM GPFS
 * Microsoft Active Directory and Exchange
 * Windows PowerShell
 
-[University Information Security Office]: https://informationsecurity.iu.edu/ "Indiana University University Information Security Office"
-[Indiana University]: https://www.iu.edu "Indiana University"
+[Information Security Office]: https://cybersecurity.yale.edu/ "Yale Information Security"
+[Yale University]: https://www.yale.edu "Yale University"
